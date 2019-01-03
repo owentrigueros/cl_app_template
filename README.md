@@ -38,4 +38,4 @@ To remove shit created when building the package:
 
     make clean
 
-Edit Makefile to automatize whatever the fuck you want.
+Edit Makefile to automatize whatever you want.
